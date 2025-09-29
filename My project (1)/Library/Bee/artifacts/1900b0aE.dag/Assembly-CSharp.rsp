@@ -127,6 +127,7 @@
 -define:ENABLE_INPUT_SYSTEM
 -define:TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
 -define:TEXTCORE_TEXT_ENGINE_1_5_OR_NEWER
+-define:UNITY_POST_PROCESSING_STACK_V2
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
 -r:"C:/Program Files/Unity/Hub/Editor/6000.1.14f1/Editor/Data/Managed/UnityEngine/UnityEditor.AccessibilityModule.dll"
@@ -393,6 +394,8 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.PackageValidationSuite.Editor.Extension.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.PackageValidationSuite.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Postprocessing.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Postprocessing.Runtime.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Rendering.LightTransport.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Rendering.LightTransport.Runtime.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipeline.Universal.ShaderLibrary.ref.dll"
@@ -437,6 +440,9 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.1.14f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.1.14f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.1.14f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
+"Assets/AQUAS-Lite/Scripts/AQUAS_Lite_Camera.cs"
+"Assets/AQUAS-Lite/Scripts/AQUAS_Lite_CamNav.cs"
+"Assets/AQUAS-Lite/Scripts/AQUAS_Lite_Reflection.cs"
 "Assets/ModularFirstPersonController/FirstPersonController/FirstPersonController.cs"
 "Assets/Polytope Studio/Lowpoly_Demos/Environment_Free/Helpers/MouseLook.cs"
 "Assets/Polytope Studio/Lowpoly_Demos/Environment_Free/Helpers/PlayerMovement.cs"

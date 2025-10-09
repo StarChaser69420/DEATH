@@ -14,6 +14,8 @@
 		<type fullname="UnityEngine.InputSystem.InputBinding" preserve="nothing" serialized="true"/>
 		<type fullname="UnityEngine.InputSystem.InputControlScheme" preserve="nothing" serialized="true"/>
 		<type fullname="UnityEngine.InputSystem.InputControlScheme/DeviceRequirement" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.InputSystem.InputSettings/iOSSettings" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.InputSystem.iOS.PrivacyDataUsage" preserve="nothing" serialized="true"/>
 		<type fullname="UnityEngine.InputSystem.PlayerInput/ActionEvent" preserve="nothing" serialized="true"/>
 		<type fullname="UnityEngine.InputSystem.PlayerInput/ControlsChangedEvent" preserve="nothing" serialized="true"/>
 		<type fullname="UnityEngine.InputSystem.PlayerInput/DeviceLostEvent" preserve="nothing" serialized="true"/>
@@ -49,6 +51,7 @@
 		<type fullname="TMPro.TMP_SpriteCharacter" preserve="nothing" serialized="true"/>
 		<type fullname="TMPro.TMP_SpriteGlyph" preserve="nothing" serialized="true"/>
 		<type fullname="TMPro.TMP_Style" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.VertexGradient" preserve="nothing" serialized="true"/>
 	</assembly>
 	<assembly fullname="UnityEngine.CoreModule">
 		<type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true"/>
@@ -76,6 +79,7 @@
 		<type fullname="UnityEngine.UI.Navigation" preserve="nothing" serialized="true"/>
 		<type fullname="UnityEngine.UI.Scrollbar/ScrollEvent" preserve="nothing" serialized="true"/>
 		<type fullname="UnityEngine.UI.ScrollRect/ScrollRectEvent" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.Slider/SliderEvent" preserve="nothing" serialized="true"/>
 		<type fullname="UnityEngine.UI.SpriteState" preserve="nothing" serialized="true"/>
 		<type fullname="UnityEngine.UI.Toggle/ToggleEvent" preserve="nothing" serialized="true"/>
 	</assembly>
